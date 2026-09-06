@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Network Threat Detection & Self-Recovery Testing Ground",
+  "description": "An interactive research testing ground and simulation platform for AI-driven cyber threat detection, automated self-healing mitigation, and empirical model benchmarking in autonomous networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
